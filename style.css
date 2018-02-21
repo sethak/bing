@@ -1,0 +1,32 @@
+body{
+  background-image: url("https://www.bing.com/az/hprichbg/rb/AyuttayaBuddha_EN-US8837500887_1920x1080.jpg");
+  background-size: cover;
+}
+.ui.borderless.menu {
+  box-shadow: none;
+  border: none;
+  background: none;
+  padding-top: 10px;
+}
+
+.ui.borderless.menu .item {
+  color: white;
+  font-weight: none;
+}
+
+.ui.borderless.menu .item:hover {
+  color: white;
+}
+
+.ui.huge.header {
+  color: white;
+}
+
+.image-row {
+  margin-top: 100px;
+  height: 500px;
+}
+
+.ui.medium.image {
+  max-height: 500px;
+}
